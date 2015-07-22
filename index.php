@@ -1,5 +1,19 @@
 <?php
 /*
+        Proudly coded by Muhammad Aliff Muazzam (Tester2009).
+        <3 Katze xD
+        From German-Malaysian Institute (GMI). Training for Advanced Technology.
+        Start dev: July 23, 2015. Thursday
+
+        https://www.facebook.com/Tester2009
+        https://github.com/alepcat1710
+        http://aliff.muazzam.my
+        Feel free to use. Do not change copyright, mastah !
+
+        No update available.
+        Just put on your server then run !
+*/
+/*
 The MIT License (MIT)
 
 Copyright (c) [2015] [Muhammad Aliff Muazzam]
